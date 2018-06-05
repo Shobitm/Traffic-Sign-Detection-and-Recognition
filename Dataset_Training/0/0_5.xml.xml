@@ -1,0 +1,26 @@
+<annotation>
+	<folder>0</folder>
+	<filename>0_5.ppm</filename>
+	<path>C:\Users\Shobit-PC\Desktop\INDIAN DATASET\Dataset_Training\0\0_5.ppm</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>123</width>
+		<height>131</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>6</ymin>
+			<xmax>116</xmax>
+			<ymax>105</ymax>
+		</bndbox>
+	</object>
+</annotation>
